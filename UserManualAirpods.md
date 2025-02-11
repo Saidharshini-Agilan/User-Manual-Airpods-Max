@@ -1,9 +1,9 @@
 #Introduction
-#Introduction
-#Introduction
-#Introduction
-#Introduction
-#Introduction
+##Introduction
+###Introduction
+####Introduction
+#####Introduction
+######Introduction
 These high-quality wireless earbuds are built to provide an exceptional audio experience using advanced technology. They offer smooth connectivity, clear sound, and effortless usability. Whether you're enjoying music, taking calls, or exercising, these earpods deliver the ideal mix of performance and comfort.
 Key Features:
 ✅ Wireless Connectivity – Featuring Bluetooth 5.3, these earpods ensure a stable and fast connection with minimal dropouts. Easily pair them with your smartphone, tablet, or laptop for an uninterrupted listening experience.
