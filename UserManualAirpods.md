@@ -1,9 +1,4 @@
-# Introduction
 ## Introduction
-### Introduction
-#### Introduction
-##### Introduction
-###### Introduction
 These high-quality wireless earbuds are built to provide an exceptional audio experience using advanced technology. They offer smooth connectivity, clear sound, and effortless usability. Whether you're enjoying music, taking calls, or exercising, these earpods deliver the ideal mix of performance and comfort.
 
 ### Key Features:
@@ -11,10 +6,6 @@ These high-quality wireless earbuds are built to provide an exceptional audio ex
 
 ✅ Noise Cancellation & Clear Calls – With Active Noise Cancellation (ANC), background noise is reduced, letting you focus on your music or calls. 
 The built-in microphone with noise reduction ensures crystal-clear voice calls, even in noisy environments.
-
-✅ Wireless Connectivity – Featuring Bluetooth 5.3, these earpods ensure a stable and fast connection with minimal dropouts. Easily pair them with your smartphone, tablet, or laptop for an uninterrupted listening experience.
-
-✅ Noise Cancellation & Clear Calls – With Active Noise Cancellation (ANC), background noise is reduced, letting you focus on your music or calls. The built-in microphone with noise reduction ensures crystal-clear voice calls, even in noisy environments.
 
 ### Intended Use:
 •	Music & Entertainment 
@@ -42,8 +33,7 @@ Inside the package, you will find the following items:
 
 ### 3. Product Overview
 
-The earpods and charging case come with essential components designed for easy operation. (Include an image or illustration showing the labeled parts.)
-
+The earpods and charging case come with essential components designed for easy operation. 
 Explanation of Key Features:
 
 •	Touch Controls – Located on each earbud, allowing you to play/pause music, adjust volume, answer calls, and activate voice assistants with simple taps.
